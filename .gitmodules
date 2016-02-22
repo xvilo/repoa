@@ -1,0 +1,3 @@
+[submodule "repob"]
+	path = repob
+	url = git@github.com:xvilo/repob.git
